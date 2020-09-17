@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <head>
   <meta charset="utf-8">
@@ -22,7 +22,7 @@
     <a class="navbar-brand js-scroll-trigger" href="#page-top">
       <span class="d-block d-lg-none">Alexandre KEBAILI</span>
       <span class="d-none d-lg-block">
-        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/portrait_Alex.jpg" alt="">
+        <img class="img-fluid img-profile rounded-lg mx-auto mb-2" src="img/portrait_Alex3.jpg" alt="">
       </span>
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -48,12 +48,15 @@
       </ul>
     </div>
   </nav>
-  <div class="nav-link js-scroll-trigger">
-    <p>Téléchargez le CV en PDF :
-    <a class="" href="documents/AlexandreKebailiSombre.pdf" download="CVAlexandreKebailiSombre.pdf">Sombre</a> /
-    <a class="" href="documents/AlexandreKebailiClaire.pdf" download="CVAlexandreKebailiClaire.pdf">Claire</a>
-  </p>  
-</div>
+  <div class="container-fluid" style="height: 5px;"></div>
+  <div class="container-fluid" style="background-color: rgba(0,0,0,0.1);">
+    <div class="nav-link js-scroll-trigger">
+      <p style="text-align: left; padding-top: 10px">Téléchargez le CV en PDF :
+        <a class="" href="documents/AlexandreKebailiSombre.pdf" download="CVAlexandreKebailiSombre.pdf">Sombre</a> /
+        <a class="" href="documents/AlexandreKebailiClaire.pdf" download="CVAlexandreKebailiClaire.pdf">Claire</a>
+      </p>  
+    </div>
+  </div>
 
   <div class="container-fluid p-0">
 
@@ -66,9 +69,9 @@
           <a href="mailto:name@email.com">a.kebaili.h@gmail.com</a>
         </div>
         <p class="lead">
-          Apres une reconversion réussie en développement informatique et l'obtention d'un BTS SIO option SLAM en un an je me dirige désormais vers la poursuite d'études en Licence Cloud et internet des objets.</p>
+          Après une reconversion réussie en développement informatique et l'obtention d'un Brevet de Technicien Supérieur Services Informatique aux Organisations option "Solutions Logicielles et Applications Métier", en un an, je me dirige désormais vers la poursuite d'études en Licence Cloud et internet des objets.</p>
         <p class="lead mb-5">
-        Passionné d'informatique et fort de deux années d'expériences à l'étranger, je saurais apporter mon dynamisme, mon autonomie ainsi que ma capacité d'adaptation aux projets professionnels.</p>
+        Passionné d'informatique et fort de deux années d'expérience à l'étranger, je saurai apporter mon dynamisme, mon autonomie ainsi que ma capacité d'adaptation aux projets professionnels.</p>
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/alexandre-kebaili" target="_blank">
             <i class="fab fa-linkedin-in"></i>
@@ -90,7 +93,7 @@
           <div class="resume-content">
             <h3 class="mb-0">Piscine école 42</h3>
             <div class="subheading mb-3">Ecole 42</div>
-            <ul>
+            <ul class="fa-ul mb-0">
               <li>Atteinte du niveau 6 (+230h au sein de l'école)</li>
               <li>Travail en groupe durant les week-ends</li>
               <li>Commandes Shell et programmation en C</li>
@@ -105,7 +108,7 @@
           <div class="resume-content">
             <h3 class="mb-0">Stage en entreprise</h3>
             <div class="subheading mb-3">AntemetA / TF</div>
-            <ul>
+            <ul class="fa-ul mb-0">
               <li>Participation à un projet</li>
               <li>Analyse du cahier des charges d'un service à produire</li>
               <li>Conception d'un logiciel et d'un site de reservation de trajets</li>
@@ -120,7 +123,7 @@
           <div class="resume-content">
             <h3 class="mb-0">Préparateur de commandes</h3>
             <div class="subheading mb-3">SAS Nature / Castorama / Logidis</div>
-            <ul>
+            <ul class="fa-ul mb-0">
               <li>Picking en vocal</li>
               <li>Préparation et envoi de colis</li>
               <li>Conduite d'engins</li>
@@ -137,7 +140,7 @@
             <div class="subheading mb-3">Canada : Montréal Poutine/Frite Alors !
               <br>
               Australie : Martin Place Bar/ Sydney Opéra Bar</div>
-            <ul>
+            <ul class="fa-ul mb-0">
               <li>Service à table</li>
               <li>Ouverture/Fermeture du restaurant</li>
               <li>Flux de clientèle important</li>
@@ -152,7 +155,7 @@
           <div class="resume-content">
             <h3 class="mb-0">Responsable opérationnel</h3>
             <div class="subheading mb-3">McDonald’s</div>
-            <ul>
+            <ul class="fa-ul mb-0">
               <li>Organisations et gestion d'une zone</li>
               <li>Service et accueil clients</li>
               <li>Assurer le respect des normes, production</li>
@@ -218,18 +221,12 @@
         <h2 class="mb-5">Interets</h2>
         <p>
           Passionné depuis toujours par le monde de l'informatique, c'est naturellement que je me suis tourné vers le monde du développement, notamment le développement de logiciels et d'application web.
-          <br>
-          Ayant pratiqué le Bicross pendant de longues années mon attirance envers les sports extrêmes a pu entretenir mon esprit de compétition.
           <br><br>
           En dehors de mon bureau j'aime pratiquer des activités manuelles telles que la mécanique automobile ou encore de simple ballades pour profité des paysages exceptionelles de la France.
           Et lorsque le temps ne le permet pas je me plais à lire de nombreuses oeuvres fantastiques ou encore simplement regarder des films ou bien sûr jouer aux jeux vidéo.
           <br>
           <div class="container" style="height=100px;"></div>
           Les voyages ont longtemps été d'un grand interêt et j'ai eu la chance de pouvoir vivre une année dans deux pays différents: le Canada et l'Australie.
-          <br><div class="container"></div>
-          Au Canada j'ai pu profiter de la vie montréalaise pendant plus de 6 mois pour ensuite traverser le Nord des États-Unis afin de vivre les 4 derniers mois de mon visa dans la station de ski de Whistler au Nord de Vancouver.
-          <br>
-          En Australie l'achat d'un van équipé a permis plus de déplacements, permettant de profiter de tout le côté Est Australien, du Nord au Sud, passant de Cairns à Melbourne ou encore de Brisbane à Katherine.
           <br><div class="container"></div>
           Les paysages époustouflants de ces deux pays resteront longtemps dans ma mémoire et il me tarde de pouvoir créé de nouvelles aventures de la sorte.
         </p>
@@ -249,7 +246,7 @@
             <h3 class="mb-0">Cisco NetAcad</h3>
           </div>
           <br>
-          <ul class="">
+          <ul class="fa-ul mb-0">
             <li>
               <i class="fa-li fa text-warning"></i>
               Cybersecurity Essentials</li>
@@ -260,9 +257,9 @@
            <h3 class="mb-0">OpenClassRooms</h3>
          </div>
          <br>
-         <ul class="">
+         <ul class="fa-ul mb-0">
           <li>
-            <i class="fa-li fa text-warning"></i>
+            <i class="fa-li fa mb-2 text-warning"></i>
             Apprenez à développer en C#</li>
           <li>
             <i class="fa-li fa text-warning"></i>
@@ -284,12 +281,16 @@
     </section>
 
 
+  <div class="container-fluid" style="background-color: rgba(0,0,0,0.1);">
     <div class="nav-link js-scroll-trigger">
-  <p>Téléchargez le CV en PDF :
-  <a class="" href="documents/AlexandreKebailiSombre.pdf" download="CVAlexandreKebailiSombre.pdf">Sombre</a> /
-  <a class="" href="documents/AlexandreKebailiClaire.pdf" download="CVAlexandreKebailiClaire.pdf">Claire</a>
-  </p>  
-</div>
+      <p style="text-align: center; padding-top: 10px">Téléchargez le CV en PDF :
+        <a class="" href="documents/AlexandreKebailiSombre.pdf" download="CVAlexandreKebailiSombre.pdf">Sombre</a> /
+        <a class="" href="documents/AlexandreKebailiClaire.pdf" download="CVAlexandreKebailiClaire.pdf">Claire</a>
+      </p>  
+    </div>
+  </div>
+  <div class="container-fluid" style="height: 5px;"></div>
+   
 
   </div>
 
